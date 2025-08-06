@@ -5,4 +5,4 @@
 )
 
 ### 🤖 Introducing Generative AI With AWS
-!( [Learn the Latest Tech Skills; Advance Your Career | Udacity.pdf](https://github.com/user-attachments/files/21622182/Learn.the.Latest.Tech.Skills.Advance.Your.Career.Udacity.pdf)
+ [Learn the Latest Tech Skills; Advance Your Career | Udacity.pdf](https://github.com/user-attachments/files/21622182/Learn.the.Latest.Tech.Skills.Advance.Your.Career.Udacity.pdf)
